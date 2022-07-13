@@ -15,5 +15,8 @@ if(is_bool(false)){
 
     echo "É um booleano 3 <br>";
 }
-
-if()
+  
+if(0.0 == false){
+    echo "O 0 é considerado falso <br>";
+    
+}
