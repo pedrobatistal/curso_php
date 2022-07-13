@@ -15,6 +15,8 @@ echo $pedro -> nome;
 echo "<br>";
 $pedro -> falar();
 
+// --------------------
+
 class Carro{
     function acelerar() {
 
