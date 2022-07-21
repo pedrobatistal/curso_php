@@ -1,0 +1,12 @@
+<?php
+
+$str = "Teste";
+
+$strRepetida = str_repeat($str, 123);
+
+echo "$strRepetida <br>";
+
+$frase = "Testando repetição por frase";
+
+echo str_repeat($frase,123);
+
